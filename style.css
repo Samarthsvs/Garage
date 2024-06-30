@@ -91,7 +91,7 @@ li a:hover::after {
 #six {
   margin-top: 2%;
   position: absolute;
-  margin-left: 30px;
+  margin-left: 0px;
   margin-top: 5%;
 }
 hr {
