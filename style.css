@@ -84,7 +84,7 @@ li a:hover::after {
   color: rgb(241, 237, 237);
   font-weight: 550;
   margin-left: 55%;
-  text-align: left;
+  text-align: center;
   margin-right: 20px;
   word-spacing: 5px;
 }
