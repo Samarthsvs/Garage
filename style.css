@@ -90,7 +90,7 @@ li a:hover::after {
 }
 #six {
   margin-top: 2%;
-  position: fixed;
+  position: absolute;
 }
 hr {
   width: 850px;
