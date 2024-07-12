@@ -1,0 +1,191 @@
+* {
+  text-decoration: none;
+  box-sizing: border-box;
+}
+body {
+  padding: 0px;
+  margin: 20px;
+  background-color: rgb(255, 255, 255);
+  margin-top: 12px;
+  background-size: cover;
+  margin-bottom: auto;
+  color: rgb(12, 3, 3);
+  font-family: "Segoe UI", Tahoma, Verdana, sans-serif;
+  margin-right: 25px;
+}
+#datt {
+  text-align: center;
+  margin-top: 5px;
+  font-size: 15px;
+}
+#one {
+  background: transparent;
+  margin-bottom: 5px;
+  margin-top: 15px;
+  height: 50px;
+  width: 100%;
+  justify-content: center;
+}
+.navbar {
+  background-color: transparent;
+  padding: 15px;
+  display: inline-block;
+  text-decoration: none;
+  align-items: center;
+  width: 100%;
+  margin-top: -5px;
+}
+.navdiv {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: transparent;
+}
+li {
+  list-style: none;
+  display: inline-block;
+  position: relative;
+}
+li a {
+  color: rgb(0, 200, 255);
+  width: 100%;
+  font-size: 25px;
+  font-weight: bold;
+  margin-left: 10px;
+  margin-right: 100px;
+}
+li a::after {
+  content: "";
+  height: 3px;
+  width: 0%;
+  background-color: rgb(0, 0, 0);
+  position: absolute;
+  left: 0;
+  bottom: -8px;
+  transition: 0.5s;
+}
+li a:hover::after {
+  width: 50%;
+}
+#four {
+  text-align: center;
+  font-size: 30px;
+  color: goldenrod;
+  margin-top: -20px;
+}
+#five {
+  font-size: 15px;
+  text-align: auto;
+  color: rgb(0, 0, 0);
+  font-weight: 550;
+
+  text-align: left;
+  margin-right: 20px;
+  word-spacing: 5px;
+}
+#six {
+  margin-top: 2%;
+  position: absolute;
+}
+hr {
+  width: 850px;
+}
+h1 {
+  color: rgb(0, 0, 0);
+  font-size: 40px;
+  text-align: center;
+}
+h2 {
+  font-size: 35px;
+  color: rgb(10, 174, 239);
+}
+.seven {
+  float: left;
+  padding: 5px;
+  width: 33.33%;
+  height: fit-content;
+}
+.row::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+#ten {
+  text-align: left;
+  margin-top: 3%;
+  font-weight: 550;
+  word-spacing: 5px;
+}
+mark {
+  background-color: rgb(255, 255, 255);
+  color: orange;
+}
+#twelve {
+  text-align: left;
+}
+#thirteen {
+  font-weight: 550;
+  text-align: left;
+  word-spacing: 5px;
+}
+#fourteen {
+  font-weight: 550;
+  text-align: left;
+  word-spacing: 5px;
+}
+#fifteen {
+  font-weight: 550;
+  word-spacing: 5px;
+}
+#sixteen {
+  margin-left: 25%;
+}
+#fifty {
+  margin-left: 24%;
+}
+.container {
+  width: 500px;
+  height: 7vh;
+  background: #ffffff;
+  display: flex;
+  align-items: left;
+  position: absolute;
+  justify-content: Left;
+  margin-top: -50px;
+  margin-left: 2%;
+}
+h3 {
+  font-size: 35px;
+}
+#eighteen {
+  margin-left: 20%;
+}
+#nineteen {
+  text-align: left;
+  margin-top: 3%;
+  font-weight: 550;
+  word-spacing: 5px;
+}
+#aarti {
+  font-weight: 550;
+  text-align: left;
+  word-spacing: 5px;
+}
+#shree {
+  margin-left: 40%;
+}
+.open {
+  margin-left: 10%;
+}
+#thirty {
+  text-align: center;
+}
+#head {
+  height: 50px;
+  margin-left: 47%;
+}
+#shlok{
+  text-align: center;
+  font-size: 25px;
+  color: rgb(255, 145, 0);
+}
